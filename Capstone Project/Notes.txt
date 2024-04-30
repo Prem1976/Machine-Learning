@@ -1,0 +1,98 @@
+not required
+
+0's     98981
+blanks'  1081
+
+not important
+99% are blank
+
+both c & d are same
+
+1-2 months hv 0s but 3rd month don't have together with 1 & 2
+
+arpu for 4069 cust's are zero for last 2 months
+they are going to churn
+
+4069 0s for the last 2 months
+1354 0s for the last 3 months
+
+its avg arpu for first 2 months must be > 70 percentile (317.309)
+this is the first level filter
+
+
+can we delete -ve rows under arpu?
+Average revenue per user
+post paid
+
+all 4 columns have -ve values
+
+can we call them +ve churn?
+
+ok
+
+Negative total amount in 4 months
+1: -10858
+2: -14628
+3: -5720
+4: -17535
+
+
+there should be some reason 
+
+exclude the outliers?
+will take only 3 Std Dev. values, will it work
+we were following the instructions in the portal, now we got confused, what to do?
+ok
+
+which variable
+
+this is also skewed
+
+
+
+skewness can be brought to median by imputing
+how to deal with skewness
++ve or -ve skewness?
+but how to handle it
+
+188 rows
+
+i forgot the key for selecting visible cells
+
+but what is the logic behind select values > 500?
+but you asked to filter values ? 500, why?
+some hypothetical number
+
+
+
+
+you are welcome
+
+
+
+
+
+
+understood
+
+
+
+
+T-mobile runs through subscription i believe
+subscription includes mobile cost in emi
+-ve values could be due to not paying mobile emis
+correct
+
+4th month custome might have made up the mind to churn, so its very high
+
+just to get away with the o/s
+
+i hv an o/s of 13k towards Airtel in 2012 due to wrong billing in ISD calls
+i quit airtel just like that, they couldn't file any case against me
+i got away with it
+because their billing was wrong in my ISD calls
+i tried
+
+
+
+

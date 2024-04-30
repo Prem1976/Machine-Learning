@@ -1,0 +1,21 @@
+Values under Contract are: Monthly, Yearly, Quarterly
+
+dummy1 = pd.get_dummies(telecom[['Contract']], drop_first=True)
+
+After running regression model
+logit_model = sm.GLM(y_train, X_train_sm, family=sm.families.Binomial())
+
+I could see coef, stderr, P value only for
+Yearly and Quarterly
+
+
+run glm only when the distri is non-normal
+
+corelation threshold 75%
+
+chi square test
+
+rfe
+
+# of features used in fit
+wrapper based techniques
